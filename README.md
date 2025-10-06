@@ -1,14 +1,14 @@
 # 👋 Hey there, I'm **TheDev111**
 
 I'm a **Software Developer** who loves crafting performant, scalable, and intuitive web applications.  
-I specialize in building modern solutions using JavaScript and Go — from real-time systems to full-stack platforms.
+I specialize in building modern solutions using **JavaScript** and **Go** — from real-time systems to full-stack platforms.
 
 ---
 
 ### 🧠 About Me
 - 🚀 I build modern web apps using **React**, **Next.js**, and **Node.js**  
 - ⚙️ I design efficient APIs and backend systems with **Go** and **PostgreSQL**  
-- 💬 I enjoy clean architecture, collaborative coding, and problem-solving  
+- 💬 I enjoy clean architecture, collaborative coding, and solving tough problems  
 - 🧩 Previously known as **[@henryno111](https://github.com/henryno111)** — account suspended, rebuilding stronger 💪  
 
 ---
@@ -22,6 +22,10 @@ I specialize in building modern solutions using JavaScript and Go — from real-
 | ⚛️ **React.js** | 🟢 Advanced | Component-driven design and state mastery |
 | ⏭️ **Next.js** | 🟢 Advanced | SEO-friendly, full-stack web solutions |
 | 🟩 **Node.js** | 🟢 Advanced | REST APIs, WebSockets, and microservices |
+| 🔥 **Firebase** | 🟢 Advanced | Auth, Realtime DB, and cloud functions |
+| 🎨 **Shadcn/UI** | 🟢 Advanced | Modern component library for React & Next.js |
+| 💅 **SCSS / SASS** | 🟢 Advanced | Modular and reusable styles |
+| 🎨 **CSS3** | 🟢 Advanced | Responsive layouts and animations |
 | 🐘 **PostgreSQL / SQL** | 🟢 Advanced | Schema design and query optimization |
 | 🍃 **MongoDB** | 🟢 Advanced | Flexible data modeling |
 | 🔗 **Clarity** | 🟡 Intermediate | Smart contract and blockchain logic |
@@ -34,15 +38,15 @@ I specialize in building modern solutions using JavaScript and Go — from real-
 - Architect full-stack apps that scale elegantly  
 - Design backend systems with clean data flow  
 - Build interactive UI with performance in mind  
-- Integrate real-time updates and cloud services  
+- Integrate **real-time** and **cloud** services  
 - Continuously learn, refine, and ship 🧭  
 
 ---
 
 ### 🌱 Currently Exploring
-- backend patterns in Go  
-- Web3 and smart contract development  
-- Developer tooling and API performance  
+- Advanced backend patterns in **Go**  
+- **Web3** and smart contract development  
+- Developer tooling, performance tuning, and automation  
 
 ---
 
@@ -55,8 +59,8 @@ I specialize in building modern solutions using JavaScript and Go — from real-
 
 ### 📫 Let's Connect
 - **GitHub:** [@TheDev111](https://github.com/TheDev111)  
-- **LinkedIn:** (@www.linkedin.com/in/henry-agukwe)  
-- **Portfolio:** (https://devhenryno.vercel.app)  
+- **LinkedIn:** [@henry-agukwe](https://www.linkedin.com/in/henry-agukwe)  
+- **Portfolio:** [devhenryno.vercel.app](https://devhenryno.vercel.app)  
 
 ---
 
