@@ -18,6 +18,7 @@ I specialize in building modern solutions using **JavaScript** and **Go** — fr
 | Skill | Level | Notes |
 |:------|:------:|:------|
 | 🟦 **Go (Golang)** | 🟡 Intermediate | Exploring advanced backend concepts |
+
 | 🟨 **JavaScript (ES6+)** | 🟢 Advanced | My go-to for dynamic frontends |
 | ⚛️ **React.js** | 🟢 Advanced | Component-driven design and state mastery |
 | ⏭️ **Next.js** | 🟢 Advanced | SEO-friendly, full-stack web solutions |
