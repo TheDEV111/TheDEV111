@@ -99,7 +99,7 @@ I specialize in building modern solutions using **TypeScript**, **JavaScript**, 
 
 * **GitHub:** [@TheDev111](https://github.com/TheDev111)
 * **LinkedIn:** [@henry-agukwe](https://www.linkedin.com/in/henry-agukwe)
-* **Portfolio:** [devhenryno.vercel.app](https://kairos-devs.com)
+* **Portfolio:** [kairos-devs.com](https://kairos-devs.com)
 
 ---
 
